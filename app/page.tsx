@@ -5,3 +5,4 @@ export default function Page() {
     <h1>¡Hola! Este es mi saludo desde Next.js (integrado)</h1>
   );
 }
+// re-deploy

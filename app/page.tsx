@@ -1,10 +1,7 @@
 import Image from "next/image";
 
-export default function Home() {
+export default function Page() {
   return (
-    <main>
-      <h1>Hola, soy Sila Leonel</h1>
-      <p>Bienvenido a mi primera aplicación con Next.js.</p>
-    </main>
+    <h1>¡Hola! Este es mi saludo desde Next.js (integrado)</h1>
   );
 }
